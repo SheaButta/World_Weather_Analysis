@@ -18,8 +18,11 @@ The standard data analysis principles were used which includes; (1) Determine th
 ## Resources
 
 [Weather Data Source](https://github.com/SheaButta/xxxx_Analysis/blob/main/Resources/WeatherPy_Database.csv)
+
 [OpenWeatherMap](https://openweathermap.org/)
+
 [Google Maps and Places API](https://developers.google.com/maps/documentation/places/web-service/search)
+
 [Google Maps and Direction API](https://developers.google.com/maps/documentation/directions/overview)
 
 ## Results
