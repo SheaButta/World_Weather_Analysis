@@ -17,7 +17,7 @@ The standard data analysis principles were used which includes; (1) Determine th
 
 ## Resources
 
-[Weather Data Source File](https://github.com/SheaButta/xxxx_Analysis/blob/main/Resources/WeatherPy_Database.csv)
+[Weather Data Source File](https://github.com/SheaButta/World_Weather_Analysis/blob/main/Weather_Database/WeatherPy_Database.csv)
 
 APIs used:
 
