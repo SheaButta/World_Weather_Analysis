@@ -32,9 +32,9 @@ APIs used:
 After the code changes were made, the users will have access to the below new visualizatoins:
 
 Available Hotels visualiazation:
-![test]https://github.com/SheaButta/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png
+![](https://github.com/SheaButta/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png)
 
 Vacation itinerary visualization:
-![test]https://github.com/SheaButta/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png
+![](https://github.com/SheaButta/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 
 
