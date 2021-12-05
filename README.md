@@ -31,6 +31,10 @@ APIs used:
 
 After the code changes were made, the users will have access to the below new visualizatoins:
 
-H
-[(https://github.com/SheaButta/xxxx_Analysis/blob/main/Resources/WeatherPy_Database.csv)
+Available Hotels visualiazation in a 5000 radius:
+https://github.com/SheaButta/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png
+
+Vacation itinerary visualization:
+https://github.com/SheaButta/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png
+
 
