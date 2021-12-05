@@ -4,7 +4,7 @@
 
 ### Purpose
 
-The "PlanMyTrip" App is the new "thing" on the block when it comes to travelling to favorable weather destinations.  I have been tasked
+The "PlanMyTrip" App is the new "thing" on the block when it comes to traveling to favorable weather destinations.  I have been tasked
 to assist with enhancing some of the application features to include;
 
 - Create a user interface to select their minimum/maximum weather forecast
@@ -31,7 +31,7 @@ APIs used:
 
 After the code changes were made, the users will have access to the below new visualizatoins:
 
-Available Hotels visualiazation in a 5000 radius:
+Available Hotels visualiazation:
 https://github.com/SheaButta/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_vacation_map.png
 
 Vacation itinerary visualization:
