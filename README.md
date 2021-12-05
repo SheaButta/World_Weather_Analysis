@@ -29,7 +29,7 @@ APIs used:
 
 ## Results
 
-After the code changes were made are two (2) snippets of new user visualizations:
+After the code changes were made, the users will have access to the below new visualizatoins:
 
 H
 [(https://github.com/SheaButta/xxxx_Analysis/blob/main/Resources/WeatherPy_Database.csv)
