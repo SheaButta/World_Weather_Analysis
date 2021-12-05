@@ -10,7 +10,7 @@ to assist with enhancing some of the application features to include;
 - Create a user interface to select their minimum/maximum weather forecast
 - Increase the search coordinates from 1500 to 2000
 - Visualize a vacation map for users
-- Visualize a vacation itinerary 
+- Visualize a vacation itinerary for users
 
 The standard data analysis principles were used which includes; (1) Determine the number of rows and columns; 
 (2) Data types used; and (3) Is the data readable?
